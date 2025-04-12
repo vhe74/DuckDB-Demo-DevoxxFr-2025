@@ -1,0 +1,1 @@
+## Demo DuckDB pour le DevoxxFr2025

@@ -1,0 +1,25 @@
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environnements virtuels
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Fichiers de log
+*.log
+
+# Notebooks Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Dossiers à exclure
+data/
+tmp/
+
+
+.DS_Store
+
