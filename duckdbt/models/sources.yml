@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: bike
+    schema: main  
+    tables:
+      - name: trips_view
+        description: "All Bike trips"
